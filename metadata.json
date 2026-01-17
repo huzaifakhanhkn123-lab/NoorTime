@@ -1,0 +1,7 @@
+{
+  "name": "NoorTime",
+  "description": "A sophisticated AI-powered Islamic prayer companion featuring precise timings, Qibla direction, spiritual habit tracking, and personalized AI-driven guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
